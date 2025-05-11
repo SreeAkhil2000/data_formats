@@ -6,4 +6,4 @@ objects.
 
 The common JSON types are Strings, Numbers, Booleans, null, Arrays, Objects (Key-value pair)
 
-Example for basic JSON schema looks like: [JSON Example](.data_formats/JSON/learning.json):
+Example for basic JSON schema looks like, [JSON Example](./learning.json):
