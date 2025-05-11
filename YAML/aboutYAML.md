@@ -4,8 +4,8 @@ Formats like XML, JSON and YAML are called serialization formats or languages. W
 Because when the different microservices in the same in the app, uses different programming languages and if\
 they wanted to send the files, then use one of the above popular formats. For the REST API's, they use the \
 JSON format and the YAML files mainly they use for the config files. Basically we have libraries in every\
-programming language for supporting these formats and also these formats makes it efficient to send the data\
-in this format compared to other format like csv, excel sheets etc..
+programming language for supporting these formats and also these formats are light weight and easier to read\
+and write compared to other format like csv, excel sheets etc..
 
 YAML follows the indentation. It supports key value pairs(:), Comments(#), Objects, list of Objects, list (-)\
 Placeholders ({{}}) and also group multiple yaml components in one file (---)
