@@ -1,2 +1,4 @@
+# This file is basically for making sure referencing and processing png files correctly
 *.png filter=lfs diff=lfs merge=lfs -text
 *.md text eol=lf
+
