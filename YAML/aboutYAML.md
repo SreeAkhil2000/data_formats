@@ -10,7 +10,7 @@ and write compared to other format like csv, excel sheets etc..
 YAML follows the indentation. It supports key value pairs(:), Comments(#), Objects, list of Objects, list (-)\
 Placeholders ({{}}) and also group multiple yaml components in one file (---)
 
-Picture describing actual kubernetes config file from @TechWordld With Nana
+Picture describing actual kubernetes config file from @TechWorld With Nana
 
 ![](yamlConfig.png)
 
