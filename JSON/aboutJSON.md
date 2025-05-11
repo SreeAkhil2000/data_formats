@@ -4,6 +4,6 @@ It is similar to the YAML and XML as we previously discussed. They are lightweig
 also all the programmin languages have libraries to support these formats. JSON format is great even for nested\
 objects.
 
-The common JSON types are Strings, Numbers, Booleans, null, Arrays, Objects (Key-value pair)
+The common JSON types are Strings, Numbers, Booleans, null, Arrays, and Objects (Key-value pair)
 
 Example for basic JSON schema looks like, [JSON Example](./learning.json):
